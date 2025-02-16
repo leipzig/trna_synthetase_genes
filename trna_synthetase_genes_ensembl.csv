@@ -1,0 +1,38 @@
+gene_id,symbol,description,chromosome,start,end,strand,biotype
+ENSG00000090861,AARS1,alanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:20],16,70251983,70289707,-1,protein_coding
+ENSG00000124608,AARS2,"alanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21022]",6,44298731,44313347,-1,protein_coding
+ENSG00000110619,CARS1,cysteinyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:1493],11,3000922,3057613,-1,protein_coding
+ENSG00000134905,CARS2,"cysteinyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25695]",13,110641412,110713603,-1,protein_coding
+ENSG00000115866,DARS1,aspartyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:2678],2,135905881,135986100,-1,protein_coding
+ENSG00000117593,DARS2,"aspartyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25538]",1,173824653,173858808,1,protein_coding
+ENSG00000103356,EARS2,"glutamyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29419]",16,23520754,23557731,-1,protein_coding
+ENSG00000136628,EPRS1,glutamyl-prolyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:3418],1,219968600,220046530,-1,protein_coding
+ENSG00000179115,FARSA,phenylalanyl-tRNA synthetase subunit alpha [Source:HGNC Symbol;Acc:HGNC:3592],19,12922479,12934037,-1,protein_coding
+ENSG00000116120,FARSB,phenylalanyl-tRNA synthetase subunit beta [Source:HGNC Symbol;Acc:HGNC:17800],2,222566899,222656092,-1,protein_coding
+ENSG00000145982,FARS2,"phenylalanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21062]",6,5261044,5829192,1,protein_coding
+ENSG00000106105,GARS1,glycyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4162],7,30580533,30634033,1,protein_coding
+ENSG00000170445,HARS1,histidyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4816],5,140673035,140691537,-1,protein_coding
+ENSG00000112855,HARS2,"histidyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4817]",5,140691430,140699305,1,protein_coding
+ENSG00000196305,IARS1,isoleucyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:5330],9,92210207,92293854,-1,protein_coding
+ENSG00000067704,IARS2,"isoleucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29685]",1,220094132,220148041,1,protein_coding
+ENSG00000065427,KARS1,lysyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6215],16,75627474,75648643,-1,protein_coding
+ENSG00000133706,LARS1,leucyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6512],5,146110566,146182696,-1,protein_coding
+ENSG00000011376,LARS2,"leucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17095]",3,45388561,45554726,1,protein_coding
+ENSG00000166986,MARS1,methionyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6898],12,57475445,57517569,1,protein_coding
+ENSG00000247626,MARS2,"methionyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25133]",2,197705369,197708395,1,protein_coding
+ENSG00000134440,NARS1,asparaginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:7643],18,57600656,57622213,-1,protein_coding
+ENSG00000137513,NARS2,"asparaginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:26274]",11,78435620,78575194,-1,protein_coding
+ENSG00000162396,PARS2,"prolyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30563]",1,54756898,54764523,-1,protein_coding
+ENSG00000172053,QARS1,glutaminyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9751],3,49095932,49105130,-1,protein_coding
+ENSG00000113643,RARS1,arginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9870],5,168486451,168519301,1,protein_coding
+ENSG00000146282,RARS2,"arginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21406]",6,87513459,87590028,-1,protein_coding
+ENSG00000031698,SARS1,seryl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:10537],1,109213918,109238182,1,protein_coding
+ENSG00000104835,SARS2,"seryl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17697]",19,38915266,38930763,-1,protein_coding
+ENSG00000113407,TARS1,threonyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:11572],5,33440696,33468091,1,protein_coding
+ENSG00000143374,TARS2,"threonyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30740]",1,150487414,150507602,1,protein_coding
+ENSG00000204394,VARS1,valyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12651],6,31777518,31795752,-1,protein_coding
+ENSG00000137411,VARS2,"valyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21642]",6,30914205,30926459,1,protein_coding
+ENSG00000140105,WARS1,tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729],14,100333790,100376805,-1,protein_coding
+ENSG00000116874,WARS2,"tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]",1,119031216,119140654,-1,protein_coding
+ENSG00000134684,YARS1,tyrosyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12840],1,32775237,32818031,-1,protein_coding
+ENSG00000139131,YARS2,tyrosyl-tRNA synthetase 2 [Source:HGNC Symbol;Acc:HGNC:24249],12,32727490,32755897,-1,protein_coding
